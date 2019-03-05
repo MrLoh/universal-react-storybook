@@ -1,5 +1,5 @@
 import React from "react";
-import { storiesOf } from "@storybook/react-native";
+import { storiesOf } from "../rn-helper";
 import { View, Text } from "react-native";
 
 const style = {

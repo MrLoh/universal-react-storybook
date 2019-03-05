@@ -4,7 +4,7 @@ module.exports = {
   module: {
     rules: [
       {
-        test: /\.(js|jsx|mjs)$/,
+        test: /\.(js|jsx|mjs|.web.js|web.jsx)$/,
         exclude: [/node_modules/],
         loader: require.resolve("babel-loader"),
         options: {
@@ -31,5 +31,6 @@ module.exports = {
         }
       }
     ]
-  }
+  },
+  resolve: { extensions: [".web.js", ".web.jsx", ".js", ".jsx"] }
 };

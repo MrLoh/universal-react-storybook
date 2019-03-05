@@ -1,7 +1,5 @@
-import { configure } from "@storybook/react";
+import { configure } from "./rn-helper";
 
-function loadStories() {
-  require("./stories/index.web.js");
-}
-
-configure(loadStories, module);
+configure(() => {
+  require("./stories/index.js");
+}, module);
