@@ -1,15 +1,17 @@
 {
-  "name": "universal-react-storybook",
+  "name": "rnstorybook",
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "start": "node node_modules/react-native/local-cli/cli.js start --port 8082",
+    "ios": "node node_modules/react-native/local-cli/cli.js run-ios --port 8082 --simulator 'iPhone XS'",
+    "android": "node node_modules/react-native/local-cli/cli.js run-android --port 8082",
     "storybook-server": "storybook start",
     "storybook": "start-storybook -p 9001 -c ./storybook"
   },
   "devDependencies": {
     "@babel/core": "^7.3.4",
-    "@storybook/react": "^5.0.0",
+    "@storybook/react": "^4.1.13",
     "@storybook/react-native": "^4.1.13",
     "babel-core": "^7.0.0-bridge.0",
     "babel-loader": "^8.0.5",
