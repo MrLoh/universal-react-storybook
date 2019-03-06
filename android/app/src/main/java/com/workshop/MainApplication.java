@@ -1,4 +1,4 @@
-package com.rnstorybook;
+package com.cinuru.workshop;
 
 import android.app.Application;
 

@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "rnstorybook.app"
-               BlueprintName = "rnstorybook"
-               ReferencedContainer = "container:rnstorybook.xcodeproj">
+               BuildableName = "workshop.app"
+               BlueprintName = "workshop"
+               ReferencedContainer = "container:workshop.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "rnstorybookTests.xctest"
-               BlueprintName = "rnstorybookTests"
-               ReferencedContainer = "container:rnstorybook.xcodeproj">
+               BuildableName = "workshopTests.xctest"
+               BlueprintName = "workshopTests"
+               ReferencedContainer = "container:workshop.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -61,9 +61,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "rnstorybookTests.xctest"
-               BlueprintName = "rnstorybookTests"
-               ReferencedContainer = "container:rnstorybook.xcodeproj">
+               BuildableName = "workshopTests.xctest"
+               BlueprintName = "workshopTests"
+               ReferencedContainer = "container:workshop.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -71,9 +71,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "rnstorybook.app"
-            BlueprintName = "rnstorybook"
-            ReferencedContainer = "container:rnstorybook.xcodeproj">
+            BuildableName = "workshop.app"
+            BlueprintName = "workshop"
+            ReferencedContainer = "container:workshop.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "rnstorybook.app"
-            BlueprintName = "rnstorybook"
-            ReferencedContainer = "container:rnstorybook.xcodeproj">
+            BuildableName = "workshop.app"
+            BlueprintName = "workshop"
+            ReferencedContainer = "container:workshop.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -113,9 +113,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "rnstorybook.app"
-            BlueprintName = "rnstorybook"
-            ReferencedContainer = "container:rnstorybook.xcodeproj">
+            BuildableName = "workshop.app"
+            BlueprintName = "workshop"
+            ReferencedContainer = "container:workshop.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

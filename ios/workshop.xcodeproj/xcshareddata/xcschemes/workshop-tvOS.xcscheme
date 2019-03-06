@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-               BuildableName = "rnstorybook-tvOS.app"
-               BlueprintName = "rnstorybook-tvOS"
-               ReferencedContainer = "container:rnstorybook.xcodeproj">
+               BuildableName = "workshop-tvOS.app"
+               BlueprintName = "workshop-tvOS"
+               ReferencedContainer = "container:workshop.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "rnstorybook-tvOSTests.xctest"
-               BlueprintName = "rnstorybook-tvOSTests"
-               ReferencedContainer = "container:rnstorybook.xcodeproj">
+               BuildableName = "workshop-tvOSTests.xctest"
+               BlueprintName = "workshop-tvOSTests"
+               ReferencedContainer = "container:workshop.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -61,9 +61,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "rnstorybook-tvOSTests.xctest"
-               BlueprintName = "rnstorybook-tvOSTests"
-               ReferencedContainer = "container:rnstorybook.xcodeproj">
+               BuildableName = "workshop-tvOSTests.xctest"
+               BlueprintName = "workshop-tvOSTests"
+               ReferencedContainer = "container:workshop.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -71,9 +71,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "rnstorybook-tvOS.app"
-            BlueprintName = "rnstorybook-tvOS"
-            ReferencedContainer = "container:rnstorybook.xcodeproj">
+            BuildableName = "workshop-tvOS.app"
+            BlueprintName = "workshop-tvOS"
+            ReferencedContainer = "container:workshop.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "rnstorybook-tvOS.app"
-            BlueprintName = "rnstorybook-tvOS"
-            ReferencedContainer = "container:rnstorybook.xcodeproj">
+            BuildableName = "workshop-tvOS.app"
+            BlueprintName = "workshop-tvOS"
+            ReferencedContainer = "container:workshop.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -113,9 +113,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "rnstorybook-tvOS.app"
-            BlueprintName = "rnstorybook-tvOS"
-            ReferencedContainer = "container:rnstorybook.xcodeproj">
+            BuildableName = "workshop-tvOS.app"
+            BlueprintName = "workshop-tvOS"
+            ReferencedContainer = "container:workshop.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

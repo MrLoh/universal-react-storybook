@@ -1,5 +1,5 @@
 {
-  "name": "rnstorybook",
+  "name": "workshop",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -9,19 +9,21 @@
     "storybook-server": "storybook start",
     "storybook": "start-storybook -p 9001 -c ./storybook"
   },
-  "devDependencies": {
-    "@babel/core": "^7.3.4",
+  "dependencies": {
     "@storybook/react": "^4.1.13",
     "@storybook/react-native": "^4.1.13",
-    "babel-core": "^7.0.0-bridge.0",
-    "babel-loader": "^8.0.5",
-    "babel-plugin-module-resolver": "^3.2.0",
-    "metro-react-native-babel-preset": "0.52.0",
     "react": "16.6.3",
     "react-art": "16.6.3",
     "react-dom": "16.6.3",
     "react-native": "0.58.5",
-    "react-native-web": "^0.10.0",
+    "react-native-web": "^0.10.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.3.4",
+    "babel-core": "^7.0.0-bridge.0",
+    "babel-loader": "^8.0.5",
+    "babel-plugin-module-resolver": "^3.2.0",
+    "metro-react-native-babel-preset": "0.52.0",
     "webpack": "^4.29.6"
   },
   "prettier": {}
