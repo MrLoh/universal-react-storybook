@@ -7,7 +7,7 @@
     "ios": "node node_modules/react-native/local-cli/cli.js run-ios --port 8082",
     "android": "node node_modules/react-native/local-cli/cli.js run-android --port 8082",
     "storybook-server": "storybook start",
-    "storybook": "start-storybook -p 9001 -c ./storybook"
+    "storybook": "start-storybook -p 9001 -c ./"
   },
   "dependencies": {
     "@storybook/react": "^4.1.13",

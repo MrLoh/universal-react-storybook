@@ -3,8 +3,7 @@ import { AppRegistry, View } from "react-native";
 import { getStorybookUI } from "@storybook/react-native";
 
 import { name as appName } from "./app.json";
-import "./storybook/config";
-import "./storybook/addons";
+import "./config";
 
 // options: https://github.com/storybooks/storybook/tree/master/app/react-native#start-command-parameters
 const StorybookUIRoot = getStorybookUI({});
