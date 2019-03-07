@@ -3,8 +3,13 @@ package com.cinuru.workshop;
 import android.app.Application;
 
 import com.facebook.react.ReactApplication;
+import com.inprogress.reactnativeyoutube.ReactNativeYouTube;
 import com.horcrux.svg.SvgPackage;
+import com.airbnb.android.react.maps.MapsPackage;
 import com.BV.LinearGradient.LinearGradientPackage;
+import com.dylanvann.fastimage.FastImageViewPackage;
+import org.reactnative.camera.RNCameraPackage;
+import com.cmcewen.blurview.BlurViewPackage;
 import com.facebook.react.ReactNativeHost;
 import com.facebook.react.ReactPackage;
 import com.facebook.react.shell.MainReactPackage;
@@ -25,8 +30,13 @@ public class MainApplication extends Application implements ReactApplication {
     protected List<ReactPackage> getPackages() {
       return Arrays.<ReactPackage>asList(
           new MainReactPackage(),
+            new ReactNativeYouTube(),
             new SvgPackage(),
-            new LinearGradientPackage()
+            new LinearGradientPackage(),
+            new MapsPackage(),
+            new FastImageViewPackage(),
+            new RNCameraPackage(),
+            new BlurViewPackage()
       );
     }
 
