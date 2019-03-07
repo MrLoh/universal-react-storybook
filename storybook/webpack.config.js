@@ -15,7 +15,9 @@ module.exports = {
               "module-resolver",
               {
                 alias: {
-                  "react-native": "./node_modules/react-native-web"
+                  "react-native": "./node_modules/react-native-web",
+                  "react-native-linear-gradient$": "react-native-web-linear-gradient",
+                  "react-native-svg$": "svgs"
                 }
               }
             ]
